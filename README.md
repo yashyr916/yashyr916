@@ -33,6 +33,7 @@ An AI Developer and ML Engineer passionate about Data Science 📊. I like autom
 <img title = "Django" title = "" src = "https://s3.amazonaws.com/media-p.slid.es/uploads/iosamuel/images/438461/djangopony.png" alt = "Django"  width="70" height="60">
 <img title = "Tensorflow" src = "https://www.kubeflow.org/docs/images/logos/TensorFlow.png" alt = "Tensorflow"  width="70" height="60">
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="60" height="60"/>
+<img title="Pandas" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg](https://miro.medium.com/v2/resize:fit:568/format:webp/1*-gCi3kMULkOY0xIkl8Wdwg.png)" width="60" height="60"/>
 </p>
 
 <hr>
